@@ -1,10 +1,11 @@
 [project]
-version = "0.1.4" # see below
+name = "pyavcontrol"
+version = "0.1.5" # see below
 requires-python = ">=3.10"
 
 [tool.poetry]
 name = "pyavcontrol"
-version = "0.1.4"
+version = "0.1.5"
 description = "Python Control of Audio/Visual Equipment (RS232/IP)"
 readme = "README.md"
 license = "LICENSE"
